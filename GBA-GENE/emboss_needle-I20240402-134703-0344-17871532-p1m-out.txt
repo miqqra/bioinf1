@@ -1,0 +1,1209 @@
+########################################
+# Program: needle
+# Rundate: Tue  2 Apr 2024 13:47:14
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240402-134703-0344-17871532-p1m.asequence
+#    -bsequence emboss_needle-I20240402-134703-0344-17871532-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c155244627-155234452
+# 2: 89110235-89119944
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 14574
+# Identity:    4301/14574 (29.5%)
+# Similarity:  4301/14574 (29.5%)
+# Gaps:        9262/14574 (63.6%)
+# Score: 12654.0
+# 
+#
+#=======================================
+
+c155244627-15      1 ATCCTGCCTTCAGAGTCTTACTGCGCGGGGCCCCAGTCTCCAGTCCCGCC     50
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15     51 CAGGCGCCTTTGCAGGCTGCGGTGGGATTTCGTTTTGCCTCCGGTTGGGG    100
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    101 CTGCTGTTTCTCTTCGCCGACGGTAGGCGTAATGAATATTTCGACCTTTG    150
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    151 GATCTTAGCTGTCCCCTCCCTGCGTTCGCACTTAACCTTTTTCACCATTA    200
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    201 TTATTATTATTGTTATTATTATTATTTTTTGAGGGAGTCTCGCCCTGTCG    250
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    251 CCCAGGCTGGAGTGTAATGGCGCCTTCTTGGCTCACTGCAACCTCCGCCT    300
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    301 CCCGGGTTCAGGCGATTCTCCGACCTCAGCCTCCCAAGTACGTGGGATTA    350
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    351 CAGGCACCCGCCACCACGCACGGCTAATTTTTTGTATCTTTTAGTAGAGA    400
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    401 CGGGGTTTCACCATGTTGGTCAGGCTGGTCTCCAATTCCTGACCTCGTGA    450
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    451 TCCGCCCGCCTCGGCCTGCCAAACAGCTGTGATTATAGGCGTGAGCCACC    500
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    501 GCGCCCGGCCAACCATCATTATTATTTTTAACGGTAAGGATGGTCAGATT    550
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    551 TTACTAATGAAGAAGAGATTATAAAATCTTCAAGTCTTTATATCCACTTG    600
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    601 CTTTTTGAGGGGTGGAGTGGGAAGAAGGTTATGTAATTCATACGTTCTTC    650
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    651 AGACATGTGACAAACATTCACGGAGCCCGGCGACGAGCGTCGGGGTTGGG    700
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    701 ATTCGCACTGGAGCTGCAGATGGGTGCCAGGATGGACTGGTCCCTACCCT    750
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    751 CCGCTTGAACCTAGGAGGCGGAGGTTGCAGTGAACCGAGATCGTGCCACT    800
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    801 GCACTCCAGCCTGGGTGACAGAGATACTCCGTCTCAAAAAAAAAAACAAA    850
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    851 ACAAAAAACAAGCGGACTGGGCGCAGTGCCTCACCCTGTAATCCCAGCAC    900
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    901 TTTGCAAAGCCAAGGCGGGAGGATCCTTTGAGTTTAGGAGTTTGAGACCA    950
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15    951 ACCTGCGCAACACAGTAAGACCCCGTCTCTACAAAAAATACAGAAATTAG   1000
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1001 CCAGGTGTGGTGGTGTGCGCCTATAGTCCCAGCTATTCTGGAGGCTGAGG   1050
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1051 TGGGAGGATTGCTTATTCTGGAGGCAGAGGTTGCACTGAGCCGAAATCAA   1100
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1101 GCTACTACACTCCATCCAGGGCAACATACGGAGACCCTGTCTCAAACAAA   1150
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1151 CAAACAAAAAATTGCTCAGTACCTGGCCAAAAAAGAAGAGGCTCACTATG   1200
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1201 CAGAGGGGAAGTGGAAGGAGATGTTTGGACTTCTAAACTCAATAGAGCAG   1250
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1251 GAGAGGCAAATGTAGAATGTGCTCAGGAAATATCTGTGAGATGAATGAAC   1300
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1301 TTGAGGGAAGTAAGGTACTAGATATTACCTGCCCTACCCAGAACAAATCC   1350
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1351 TGTGCAATGTTTCCTTGAAAAGTGAGAAGTCTGGAAGGGGTGGCTACTGA   1400
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1401 CATAGTGAAGCAACTAGTTCAATTCTACAACTTGACAGCTACCCCTGTGC   1450
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1451 CAGGCTATCTACGAGGATACTTAGAATGCATAAGACATTCCTTCAAGGAA   1500
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1501 CTCCAGGAACAGAGGCCTGACATGTTGCAATGTTTAGTGTCAAGCAGTGT   1550
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1551 ACTAGAGACACATTATCACACTCAAACCTCACAACAATTCTGTGAGGTAG   1600
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1601 GAGTTATCACTCCCCTTTTATAGATGAAACAGAGGCTTAGAGTGATTGAT   1650
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1651 TTATTGAAAGTCAAACAGCCAGTAAATGGTGTAGCCAGGATTCCAAACTT   1700
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1701 GCTGTCTCACTGAGACTGTACTTAATTACTGGAGGGACCGGGTGTGGTGG   1750
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1751 CTCATTGCTATAATCCCAACACCTTGGGAGGCTGAGGCTGGTGGATCACC   1800
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1801 TGAGGTCAGGGGTTCGAGACCAGCCTGGCCAACATGGTGAAACCCCATCT   1850
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1851 CTACTAAAAATACAAAAATTAGCTGGGCATGGTGGTGGGCTCCTGTAATC   1900
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1901 CCAGCTACTCAGGAGGCTGAGGCAGGGCAATTGCTTGAGCCGAGATCACA   1950
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   1951 CTGCACTCCAGCCTGGGCAACAGGGCAAGACTCTGTCTCAAAACCAAAAA   2000
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2001 AAAAAAAATTACTGGAGGAACCTAGAAGAAGAAATGATCAATTTTGCTTG   2050
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2051 GAGTGTATCTAGAAAGACTTCACTGAGATCATTTAAAGAACAAAAAGGAT   2100
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2101 GGCTGGGGTCCAGCGCAGTGGCTCATGCCTGTAATCCCAGCACTTTCGGA   2150
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2151 TACCAAGGCAGCAGATCACCTGAGGTCCAGAGTTTCAGACCAGCCTGGCC   2200
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2201 AACATAGTGAAACCCCATCTCTACTAAAAATAAAAAAATTAGCTGAGCAT   2250
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2251 GTTGGAGGGCACCTGTAATCCCAGCTACTTGGGAGGCTGAGGCAGGAGAA   2300
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2301 TCACTCGAACCCAGGAGGTGGAGGTTGCAGTGAGCCAAGATCACGCCACT   2350
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2351 GCACTCCAGCCTGGGCAACAGAGTGAGACTCTGTCTCAAAAAACAACAAC   2400
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2401 AACAAAAAATACAAACAAGAGACAAGTAGTTCCCAGGTGCCTACCAAGTG   2450
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2451 GTCAGGCACTGCACTTACCTCACTGACTGCAGTAACCACCCTTTGAGGTT   2500
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2501 GTGGCATTGCCTCCATTTTCCAGGCAAGGAAATGGGCTGAGAGCTGGGAT   2550
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2551 TAGTCAGGTCATGACTGTGTGTGCCACTCCCGCTAAATCTCATTTGATGT   2600
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2601 GGTTCATGAGGCCACACCATGGACAGCTTCCTCCTTGTGTCCACTGAGGA   2650
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2651 TATGGCTTTGTACAACACTTTGGTTTTTGAACGACTTTACAAACCTCCCT   2700
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2701 GTCTTGTGAGGAAGGAAGAACAGTTATTACCATCTGCATCTGATGATGAA   2750
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2751 ACAAGGGACGCTGCAGAGGAGCCGCACTGACCACTCCCTCCCTCCAGTCC   2800
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2801 TGTCATCCCACTGCCAGTGTCCCACCCTCTTGTGCCCTGCACTTCACTGG   2850
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2851 CTAATAACCCCCCTCACTTTTTCCTCTGTGAAGCCATCCTGGATAATTCC   2900
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2901 CCACCCACGAATGGTCCCTCCTCATCTCAGAGAGCTCTCCATGCACACCT   2950
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   2951 GTTACCGTTTCTGTCTTTATCTGTAAATATCTGTGTGTCTGACTTCCATG   3000
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3001 CCTCACACACCTCTATAGGGCAAAGACTGTCTTAAACATCTTGGTAGTGT   3050
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3051 CAGTATTTTGCACAGTGAAGTTTTTTTTTTTAAATTATATCAGCTTTATT   3100
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3101 TGTACCTTTTTGACATTTCTATCAAAAAAGAAGTGTGCCTGCTGTGGTTC   3150
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3151 CCATCCTCTGGGATTTAGGAGCCTCTACCCCATTCTCCATGCAAATCTGT   3200
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3201 GTTCTAGGCTCTTCCTAAAGTTGTCACCCATACATGCCCTCCAGAGTTTT   3250
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3251 ATAGGGCATATAATCTGTAACAGATGAGAGGAAGCCAATTGCCCTTTAGA   3300
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3301 AATATGGCTGTGATTGCCTCACTTCCTGTGTCATGTGACGCTCCTAGTCA   3350
+                                                                       
+89110235-8911      1 --------------------------------------------------      0
+
+c155244627-15   3351 TCACATGACCCATCCACATCGGGAAGCCGGAA-TTACTTGCAGGGCTAAC   3399
+                                            ||||||||| ..||||||.|.||||..
+89110235-8911      1 -----------------------AAGCCGGAAGGAACTTGCTGTGCTAGT     27
+
+c155244627-15   3400 CTAGTGCCTATAGCTAAGGCAGGTACCTGCATCCTTGT-TTTTGTTTAGT   3448
+                     | .||.||.|.|||||    .|.||.|||  ||  ||| ||||.|||.||
+89110235-8911     28 C-GGTTCCAAGAGCTA----TGATATCTG--TC--TGTGTTTTATTTGGT     68
+
+c155244627-15   3449 GGATCCTCTATCCTTCAGAGACTCTGGAACCCCTGTGGTCTTCTC-TTCA   3497
+                     .|.||.|||||||.||..||.|.|.|.|||..|....|||||||| ||| 
+89110235-8911     69 AGGTCTTCTATCCCTCCAAGGCACAGAAACTTCCACAGTCTTCTCATTC-    117
+
+c155244627-15   3498 TCTAATGACCCTGAGGGGATGGAGTTTTCAAGTCCTTCCAGAGAGGTAAG   3547
+                        ..||..||||||..|.|..|||||.||||..||||..||||||||||
+89110235-8911    118 ---GCTGGTCCTGAGTAGCTCCAGTTTCCAAGATCTTCTGGAGAGGTAAG    164
+
+c155244627-15   3548 AGAG-AGAGCTCCCAATCAGCATTGTCACA--GTGCTTCTGGAATCCTGG   3594
+                     .|.| ||.||| .||||..||.|||||| |  .||||||.|||||.|||.
+89110235-8911    165 CGGGCAGGGCT-ACAATTTGCCTTGTCA-ATCTTGCTTCGGGAATTCTGC    212
+
+c155244627-15   3595 C----------ACTGGAATTTAATGAATGACAGACTC----------TCT   3624
+                     |          | |||||||...|||.|       ||          |.|
+89110235-8911    213 CTATCTAGATTA-TGGAATTCGGTGAGT-------TCAATTTTTTTTTTT    254
+
+c155244627-15   3625 TTGAATCCAGGGCCATCATGGCTCTTTGAGCAAGGCACAGATGGAGGGAG   3674
+                     ||.|||.||||| |||||||||||||||||   |||||||||||||||||
+89110235-8911    255 TTAAATTCAGGG-CATCATGGCTCTTTGAG---GGCACAGATGGAGGGAG    300
+
+c155244627-15   3675 GGGTCGAA-GTTGAAATGGGTGGG----AAGAGTGGTGGGGAG-CATCCT   3718
+                     ||.| ||| ||||||||.|.||||    |||||| |..|.||| |.||  
+89110235-8911    301 GGCT-GAAGGTTGAAATCGATGGGGGAAAAGAGT-GAAGAGAGTCTTC--    346
+
+c155244627-15   3719 GATTTGGGGTGGGCAG-------------AGAGTTGTCATCAGAAGGGTT   3755
+                       |||||.||||||||             |||||        |||.|..|
+89110235-8911    347 --TTTGGAGTGGGCAGCAAACTCCCTAGCAGAGT--------GAATGAAT    386
+
+c155244627-15   3756 GCAGGGAGAGCTGCAC----CCAGGTTTCTGTGGGCCTTGTC------CT   3795
+                     |||||         ||    ||||| .|||..||||..||||      ||
+89110235-8911    387 GCAGG---------ACGCCTCCAGG-GTCTACGGGCACTGTCTAATCACT    426
+
+c155244627-15   3796 AATGAATGTGGGAGACCGGGCCATGGGCACCCAAAGGCAGCTAAGCCCTG   3845
+                     |||.||.|||||||.|...||..||.|||.|||.||||||||||.|.|||
+89110235-8911    427 AATAAAGGTGGGAGCCTATGCTGTGAGCATCCACAGGCAGCTAAACTCTG    476
+
+c155244627-15   3846 CCCAGGAGAGTAGTTGAGGGGTGGAGAGGGGCTT--GCTTTTCAGTCATT   3893
+                     .|||||||.||.||||..||||.|||||.|.|||  .||.||  .||.||
+89110235-8911    477 GCCAGGAGGGTGGTTGCAGGGTAGAGAGAGTCTTACACTATT--ATCTTT    524
+
+c155244627-15   3894 CCT---CATTCTGTCCTCAGGAATGTCCCAAGCCTTTGAGTAGGGTAAGC   3940
+                     |||   ||||.|.|.|||||.|.|||.|        ||          |.
+89110235-8911    525 CCTCTACATTTTCTTCTCAGAAGTGTGC--------TG----------GT    556
+
+c155244627-15   3941 ATCATGGCTGGCAGCCTCACAGGATTGCTT-CTACTTCAGGCAGTGTCGT   3989
+                     .|||||||||.|||.||||..||||| ||| |||.|||||||.||.||.|
+89110235-8911    557 GTCATGGCTGCCAGGCTCATCGGATT-CTTCCTATTTCAGGCGGTATCTT    605
+
+c155244627-15   3990 GGGCATCAGGTGAGTGAGTCAAGGCAGTGG----GGAGGTAGCACAGAGC   4035
+                     ||||||..|    |||||||.|||  .|||    |||||.|..|..|.| 
+89110235-8911    606 GGGCATATG----GTGAGTCTAGG--ATGGAGATGGAGGCATGAAGGTG-    648
+
+c155244627-15   4036 CTCCCTTCTG-CCTCATAGTCCTTTGGTAGCCTTCCAGTAAGCTGGTGGT   4084
+                      ||||  ||| ||.||.||||||.|||||||||||||.||   |||||.|
+89110235-8911    649 -TCCC--CTGCCCCCAAAGTCCTCTGGTAGCCTTCCATTA---TGGTGCT    692
+
+c155244627-15   4085 AGACTTTTAGTAGGTGCTCAATAAATCCTTTTGAGTGACTGAGACCAACT   4134
+                     ..|.|||.||||||..|||..|||.||.|||.||.||.|||||| ||.||
+89110235-8911    693 GAAATTTCAGTAGGGACTCTGTAACTCTTTTAGAATGCCTGAGA-CATCT    741
+
+c155244627-15   4135 TTGGGGTG-------------AGGATTTTGT----------TTTTTTTCT   4161
+                     |||||.||             ||||||||.|          |||.|||.|
+89110235-8911    742 TTGGGCTGGGAGTATGGTGGAAGGATTTTTTTAAAAAAATATTTATTTAT    791
+
+c155244627-15   4162 TT------TGAAACAGAGTCTTACTCTGTTGCCTGGGCTGGAGTGCAGTG   4205
+                     ||      ||.||       .|||.||||.||                  
+89110235-8911    792 TTATTATATGTAA-------GTACACTGTAGC------------------    816
+
+c155244627-15   4206 GTGCAATTTTGGCTCATTCCAACCTCTGCCTC-CCAGATTCAAGCGATTC   4254
+                              ||.||          ||.|.|.| ||||    |||.|    
+89110235-8911    817 ---------TGTCT----------TCAGACACACCAG----AAGAG----    839
+
+c155244627-15   4255 TCTTGCTTCAG----CTTCCCAGGTAGCTGGGATTACAGGCGGCCACCAC   4300
+                        .||.||||    |.|..|||.|.|.||.||         ||||||| 
+89110235-8911    840 ---GGCGTCAGATCTCGTTACAGATGGTTGTGA---------GCCACCA-    876
+
+c155244627-15   4301 TACGCCCAGCTAATTTTTGTATTTTTAGTAGAGACGGGGTTTCACCATGC   4350
+                                      |||..||         ||.|||.||     || 
+89110235-8911    877 -----------------TGTGGTT---------ACTGGGATT-----TG-    894
+
+c155244627-15   4351 TGGCAAGGCAGGTCTCAAACTCCTCACCTCAGG-TGATCCGCCCACCTCG   4399
+                                      ||||||..||||..|| .||.|.|      |||
+89110235-8911    895 -----------------AACTCCAGACCTTTGGAAGAGCAG------TCG    921
+
+c155244627-15   4400 GCCTCCTAAAGTGCTAGGATTACAGGTGTGAGCCCCTGCGC-------CC   4442
+                     |         |||||   .||||         ||.|||.||       ||
+89110235-8911    922 G---------GTGCT---CTTAC---------CCACTGAGCCATCTCACC    950
+
+c155244627-15   4443 GGCCAAGGGGTGAGGA-------ATTTTGAAACCGTGTTCAGTCTC--TC   4483
+                     .|||        .|||       .||||.||....|||||.|||||  .|
+89110235-8911    951 AGCC--------CGGATTTTTTTTTTTTTAATTGTTGTTCTGTCTCGTAC    992
+
+c155244627-15   4484 CTAGCAGATGTGTCCATTCTCCATGTCTTCATCA---------GA--CCT   4522
+                     ||||||    ||.|||.||       |.||||.|         ||  |||
+89110235-8911    993 CTAGCA----TGCCCACTC-------CCTCATAAACCCGCTTTGATGCCT   1031
+
+c155244627-15   4523 CACTCTGCTTGTACTCCCTCCCTCCCAGGTGCCCGCCCCTGCATCCCTAA   4572
+                     ..||||||||||  .||||.|||||.||||||||..|||||||||||.||
+89110235-8911   1032 GCCTCTGCTTGT--GCCCTGCCTCCTAGGTGCCCAACCCTGCATCCCCAA   1079
+
+c155244627-15   4573 AAGCTTCGGCTACAGCTCGGTGGTGTGTGTCTGCAATGCCACATACTGTG   4622
+                     ||||||.|||||||||||.|||||.||||||||.|||||..|.|||||||
+89110235-8911   1080 AAGCTTTGGCTACAGCTCAGTGGTCTGTGTCTGTAATGCATCGTACTGTG   1129
+
+c155244627-15   4623 ACTCCTTTGACCCCCCGACCTTTCCTGCCCTTGGTACCTTCAGCCGCTAT   4672
+                     ||||..||||||||..||||||.||.||.||.||||||||||||||.||.
+89110235-8911   1130 ACTCTCTTGACCCCGTGACCTTACCGGCTCTGGGTACCTTCAGCCGTTAC   1179
+
+c155244627-15   4673 GAGAGTACACGCAGTGGGCGACGGATGGAGCTGAGTATGGGGCCCATCCA   4722
+                     |||||.||.||..||||.||.|||||||||||||||.|.|||.|||||||
+89110235-8911   1180 GAGAGCACTCGACGTGGACGTCGGATGGAGCTGAGTGTCGGGGCCATCCA   1229
+
+c155244627-15   4723 GGCTAATCACACGGGCACAGGTAACCA--TTACACCCCTCACCCCCTGGG   4770
+                     |||.||||.|||.||||||||||.|||  |||    .||..|||.||   
+89110235-8911   1230 GGCCAATCGCACTGGCACAGGTAGCCACTTTA----TCTGTCCCTCT---   1272
+
+c155244627-15   4771 CCAGGCTGGGTCCTCCTAGAGGTAAATGGTGT-----CAGTGATCACCAT   4815
+                      .||.||||..||          |||    ||     |||||||||.|||
+89110235-8911   1273 -AAGCCTGGACCC----------AAA----GTCACACCAGTGATCAGCAT   1307
+
+c155244627-15   4816 GGAGTTTC--CCGCTGGGTACTGATACCCTTATTCC----CTGTGGATGT   4859
+                     |     ||  |..||||...||||    ||| ||||    ||     |.|
+89110235-8911   1308 G-----TCCTCTTCTGGACTCTGA----CTT-TTCCTCTTCT-----TTT   1342
+
+c155244627-15   4860 CCTCAGGCCTGCTACTGACCCTGCAGCCAGAACAGAAGTTCCAGAAAGTG   4909
+                     || ||||..|.|||||.||..|||||||||||.|||||||||||||||||
+89110235-8911   1343 CC-CAGGGTTACTACTCACTTTGCAGCCAGAAAAGAAGTTCCAGAAAGTG   1391
+
+c155244627-15   4910 AAGGGATTTGGAGGGGCCATGACAGATGCTGCTGCTCTCAACATCCTTGC   4959
+                     ||.|||||||||||.|||||||||||.||..||||.||||||||||||||
+89110235-8911   1392 AAAGGATTTGGAGGCGCCATGACAGACGCCACTGCGCTCAACATCCTTGC   1441
+
+c155244627-15   4960 CCTGTCACCCCCTGCCCAAAATTTGCTACTTAAATCGTACTTCTCTGAAG   5009
+                     ..||||.||.|||.|.||.||..|||||||.|.|||.||||||||| |..
+89110235-8911   1442 TTTGTCCCCACCTACTCAGAAGCTGCTACTCAGATCCTACTTCTCT-ACC   1490
+
+c155244627-15   5010 AA-GGTGAGGAGGAAGGGGA-CAAGATGACATAGAGCCATTGAAACTTTT   5057
+                     || ||||||||||  |..|| ||||.||..|      ||.||.|||||.|
+89110235-8911   1491 AACGGTGAGGAGG--GCAGAGCAAGGTGGTA------CACTGTAACTTAT   1532
+
+c155244627-15   5058 --CGTTTTTC-----------TTTTCTTTTTTTAAAATTTTTT-------   5087
+                       |..|||||           ||.|.||.||||.|||||||||       
+89110235-8911   1533 GCCCCTTTTCATACCCTGGCTTTATTTTATTTTTAAATTTTTTATTACAT   1582
+
+c155244627-15   5088 -------------------------------TGAGG-------CAG----   5095
+                                                    |||||       |||    
+89110235-8911   1583 TTCATTATCTCTTGTGTGTGCTGTGCATGAGTGAGGGGGAGGTCAGAGGA   1632
+
+c155244627-15   5096 -AATCTCACTC---TGCCCATTCTGTC----------------GGCGAGA   5125
+                      |||.|   ||   ||.|||  |||||                |||.|| 
+89110235-8911   1633 CAATTT---TCGGGTGTCCA--CTGTCCACCATGGGACCCATGGGCTAG-   1676
+
+c155244627-15   5126 CAGGAGTGCAGTGGTGTGATCTCCCCTCACAGCAACCTCTG-CCTCCCAG   5174
+                              |||.| |.|.|||.|||.|..||      ||| |.|.||||
+89110235-8911   1677 ---------AGTCG-GGGGTCTTCCCACGGAG------CTGTCTTGCCAG   1710
+
+c155244627-15   5175 GCTATAGTGATT-CTCCTGCCTCAGCCTCCTGAGTAGCTGGA-ATTATAG   5222
+                     |||.|     || |||.|||.||  |.|.||  .|..|.||| |||    
+89110235-8911   1711 GCTTT-----TTGCTCTTGCTTC--CATACT--TTTCCCGGACATT----   1747
+
+c155244627-15   5223 GCGTGCGCCACTAC----------CACCTGGCTAATTTTTGTATT-----   5257
+                        |||..|.||.|          |.|||.||    .|.||||.|     
+89110235-8911   1748 ---TGCCTCCCTTCCTTTTCTTCTCTCCTCGC----CTCTGTAATGCTCC   1790
+
+c155244627-15   5258 TTTAGTAGAGACAGGGTTTCATCATGTTGACCAGGCTAGTCTTAAACT--   5305
+                     |..||||||          |.||||||...||||.|.|.|||   |||  
+89110235-8911   1791 TGGAGTAGA----------CCTCATGTGTTCCAGACAAATCT---ACTGT   1827
+
+c155244627-15   5306 -------------CCTGACCTCAAATGATATACCTGCCT-TGGCCTCCCG   5341
+                                  .||||.||           ||||||| |.|.||||.|
+89110235-8911   1828 GTAGTCAGTGATGGCTGAACT-----------CCTGCCTCTCGTCTCCTG   1866
+
+c155244627-15   5342 AAGTGCTGGAATTACAAGTGTG----AGCCACCGAGCCCAGCAGACACTT   5387
+                      ||||.||||||||||.|||||    ||    |.|||||||         
+89110235-8911   1867 -AGTGTTGGAATTACAGGTGTGCATTAG----CAAGCCCAG---------   1902
+
+c155244627-15   5388 TTCTTTTTTCTTTTTTTTTTTTTGAGACAGAGT-----CTCGCACTGTCA   5432
+                                          ||.|.||||.||     |||..|||    
+89110235-8911   1903 ---------------------TTCACACAGTGTTGGAGCTCAAACT----   1927
+
+c155244627-15   5433 CCCAGGCTGGAGTGCA---GTGGCA--CAATCT--CAGCT-CACTGCAAC   5474
+                       .|||..|...||||   .|||||  ||.|||  ||.|| .|||.||.|
+89110235-8911   1928 --TAGGGCGCCATGCATCCTTGGCAGGCATTCTGCCACCTGAACTACATC   1975
+
+c155244627-15   5475 CTCCA-----CCTCCCGGGTTCAGGTGATTC--------TCC---TGTCT   5508
+                     | |||     ||||      ||||    |||        |||   ||||.
+89110235-8911   1976 C-CCAGCCTGCCTC------TCAG----TTCTTACTCTTTCCCTTTGTCC   2014
+
+c155244627-15   5509 CAGCCTCTCGAGTACCTGGGATTA-CAGG--TGCCTGCCACCACGCCCGG   5555
+                     ||.||      .|||||.|..||| ||||  ||||| |.|.|||      
+89110235-8911   2015 CATCC------CTACCTTGCTTTACCAGGCTTGCCT-CGAACAC------   2051
+
+c155244627-15   5556 CTAATTTTTTGTATTTTTAGTAGAGACAGGGTTTCACTATGTTGGCCAGG   5605
+                              |||           ||.||     |.||||     |||   
+89110235-8911   2052 ---------TGT-----------AGCCA-----TGACTA-----GCC---   2068
+
+c155244627-15   5606 ATGATTGCGAACTC----CTGACCTCGTGATCTGCCCACATCGGCCTCCC   5651
+                           .|||||||    |||||.|.||                  |..|
+89110235-8911   2069 ------TCGAACTCTTTTCTGACTTAGT------------------TTTC   2094
+
+c155244627-15   5652 AAAGTGCTGGGATTACATGCGTGAGCCACTGACACTTTTCTT-TGCCCTT   5700
+                     .|||||||||.||||||.|                   |.|| ||||   
+89110235-8911   2095 CAAGTGCTGGAATTACAAG-------------------TATTATGCC---   2122
+
+c155244627-15   5701 TCTTTGGACCCTGACTTCTG-CCCATCCCTGACATTTGGTTCCTGTTTTA   5749
+                            |||..|     || .|||..|| ||    |||||||||..|.|
+89110235-8911   2123 -------ACCAAG-----TGTACCAGGCC-GA----TGGTTCCTGACTCA   2155
+
+c155244627-15   5750 ATGCC-CTGTGAAATAAGA-------TTTCACCGCCTATCATCTGCTAAC   5791
+                     .|||| |  |||||||.||       |||||      ||..||||||||.
+89110235-8911   2156 GTGCCAC--TGAAATACGATCACCTTTTTCA------ATATTCTGCTAAG   2197
+
+c155244627-15   5792 TGCTACGG--ACTCAGGCTCAGAAAGGCCTGCGCTTCACCCAGGTGCCAG   5839
+                     |.||..||  |..||.|..||||..|||.|..|.|||||..||||.|..|
+89110235-8911   2198 TACTTAGGAAATACATGTGCAGAGGGGCTTCGGTTTCACTTAGGTTCTGG   2247
+
+c155244627-15   5840 CCTCCACAGGTTCCA-------ACCCAGG---------------------   5861
+                     .|||||||.| .|||       ||||.||                     
+89110235-8911   2248 TCTCCACAAG-CCCACACCTAGACCCTGGCTCTGAATGAGGGCCTATTGA   2296
+
+c155244627-15   5862 ------------------AGCCCAAGTTC-------CCTT----------   5876
+                                       ||||.|..|||       ||||          
+89110235-8911   2297 GGACTAATAACTGATTAAAGCCAATTTTCATACTCACCTTGTTTTATTTT   2346
+
+c155244627-15   5877 -------------------------------------------------T   5877
+                                                                      |
+89110235-8911   2347 ATTTTATCTTATCTTATTTTGAGACAGGGTCTTGCCTTGTAGCCCTGGCT   2396
+
+c155244627-15   5878 GGCC-----------------CTGACTCAGACACTATTAGGACTGGCAAG   5910
+                     ||||                 |||.|||||.|.| |..||||.|||.|  
+89110235-8911   2397 GGCCTGCTCACATTGATCTGGCTGCCTCAGCCTC-AGGAGGAATGGGA--   2443
+
+c155244627-15   5911 TGATAAGCAGAGT---------CCCATACTCTCCTATTGACTCGGA-CTA   5950
+                     |.|.|.|||..||         .|||||.|||||||||||.||.|| || 
+89110235-8911   2444 TCACAGGCATGGTACACTTGGCTCCATAGTCTCCTATTGATTCAGATCT-   2492
+
+c155244627-15   5951 CCATATCTTGATCATCCTTTTCTGTAGGAATCGGATATAACATCATCCGG   6000
+                     ||.|||||||..||||..||.|||.||||||.|.||||||||||||||||
+89110235-8911   2493 CCCTATCTTGGCCATCAATTCCTGCAGGAATTGAATATAACATCATCCGG   2542
+
+c155244627-15   6001 GTACCCATGGCCAGCTGTGACTTCTCCATCCGCACCTACACCTATGCAGA   6050
+                     ||||||||||||||.|||||||||||||||||...|||.||||||||.||
+89110235-8911   2543 GTACCCATGGCCAGTTGTGACTTCTCCATCCGTGTCTATACCTATGCTGA   2592
+
+c155244627-15   6051 CACCCCTGATGATTTCCAGTTGCACAACTTCAGCCTCCCAGAGGAAGATA   6100
+                     |||||||.|.||.||||||||...||||||||||||||||||.|||||.|
+89110235-8911   2593 CACCCCTAACGACTTCCAGTTATCCAACTTCAGCCTCCCAGAAGAAGACA   2642
+
+c155244627-15   6101 CCAAGCTCAAGGTAGGCATTCTAGCTTTTTCAGGCCCT----GAGGGCCC   6146
+                     |||||||||||||.||||||||||.|...||| |||||    ||..||| 
+89110235-8911   2643 CCAAGCTCAAGGTGGGCATTCTAGTTGCCTCA-GCCCTATTGGATTGCC-   2690
+
+c155244627-15   6147 TGATGTCTGGGGGTTGAGAAACTGTAGGGTAGGTCTGCTTGTACAG----   6192
+                         ||||.||||.||.|||..|..|||.|||..|||..|.||.||    
+89110235-8911   2691 ----GTCTTGGGGCTGGGAAGGTCCAGGTTAGAGCTGTCTCTAGAGCAAC   2736
+
+c155244627-15   6193 -----ACATTTTGTCCCCTGCTGTTTTGTCCTGGGGGTGGGAGGGTGGAG   6237
+                          |||||.||    |.||...||||.|.|||||||..||||||||.|
+89110235-8911   2737 ATGGAACATTCTG----CAGCCTATTTGACTTGGGGGTAAGAGGGTGGGG   2782
+
+c155244627-15   6238 GCTAATGGCTGAACCGGATGCACTGGTTGGGCTAGTATGTGTTCCAACTC   6287
+                     |||.||||.||.|||.|||||||||||.|..|||||||||||||||.|||
+89110235-8911   2783 GCTGATGGTTGGACCTGATGCACTGGTAGAACTAGTATGTGTTCCAGCTC   2832
+
+c155244627-15   6288 TGGGTGCTTCTCTCTTCACTACCTTTGTCTCTAGATACCCCTGATTCACC   6337
+                     ||||||..||||||||||||  .||||||||.||||||||||||||||||
+89110235-8911   2833 TGGGTGTCTCTCTCTTCACT--GTTTGTCTCCAGATACCCCTGATTCACC   2880
+
+c155244627-15   6338 GAGCCCTGCAGTTGGCC-CAGCGTCCCGTTTCACTCCTTGCCAGCCCCTG   6386
+                     .|||||||.||.||.|| || ||.|||.||||||||.|||||||.|||||
+89110235-8911   2881 AAGCCCTGAAGATGTCCTCA-CGCCCCATTTCACTCTTTGCCAGTCCCTG   2929
+
+c155244627-15   6387 GACATCACCCACTTGGCTCAAGACCAATGGAGCGGTGAATGGGAAGGGGT   6436
+                     |||||||||||||||||||||||||||||||...||||||||||||||||
+89110235-8911   2930 GACATCACCCACTTGGCTCAAGACCAATGGAAGAGTGAATGGGAAGGGGT   2979
+
+c155244627-15   6437 CACTCAAGGGACAGCCCGGAGACATCTACCACCAGACCTGGGCCAGATAC   6486
+                     |.||||||||.|||||.||.||.||||..||||||||||||||||..|||
+89110235-8911   2980 CGCTCAAGGGTCAGCCAGGGGATATCTTTCACCAGACCTGGGCCAATTAC   3029
+
+c155244627-15   6487 TTTGTGAAGTAAGGGATCAGCAAGGATGTGGGATCAGGACTGGCCTCCCA   6536
+                     |||||.||||||||||||..||.||...|||||||.||||          
+89110235-8911   3030 TTTGTCAAGTAAGGGATCGTCAGGGCCCTGGGATCTGGAC----------   3069
+
+c155244627-15   6537 TTTAGCCATGCTGATCTGTGTCCCAACCCTCAACC-TAGTTCCACTTCCA   6585
+                                                     ||| |||           
+89110235-8911   3070 --------------------------------ACCGTAG-----------   3076
+
+c155244627-15   6586 GATCTGCCTGTCCTCAGCTCACCTTTCTACCTTCTGGGCCTTTCAGCCTT   6635
+                                              |||||.|      |.|.||  ||||
+89110235-8911   3077 -------------------------TCTACAT------CGTATC--CCTT   3093
+
+c155244627-15   6636 GGGCCTGTCAATCTTGCCCACTCCATCAGGCTTCCTGTTCTCTCGGTCTG   6685
+                     |                  ||                          |||
+89110235-8911   3094 G------------------AC--------------------------CTG   3099
+
+c155244627-15   6686 GCCCACTTTCTTTTTATTTTTCTTCTTTTTTTTTTTTTTGAGAAGGAGTC   6735
+                     ..||||||||                                        
+89110235-8911   3100 CTCCACTTTC----------------------------------------   3109
+
+c155244627-15   6736 TCTCTCTCTGTCACCCAGGCTGGAGTGCTGTGGCGCCATCTTCACTCACT   6785
+                                                                       
+89110235-8911   3110 --------------------------------------------------   3109
+
+c155244627-15   6786 GTAACCTCTGCCTCCTGAGTTCAAGCAATTCTCCTGCCTCAGCCTTCCAA   6835
+                       |||                      |||| |.|||||     |||  |
+89110235-8911   3110 --AAC----------------------ATTC-CATGCCT-----TTC--A   3127
+
+c155244627-15   6836 GTAGCTGGGATTATAGGCGCCTGCCACCAGGCCCAGCTGATTTTTCTATT   6885
+                     ||                                              ||
+89110235-8911   3128 GT----------------------------------------------TT   3131
+
+c155244627-15   6886 TTTAGTAGAGACGGGGTTTCGCCAGGCTGTTCTCGAACTCCTGAACTCAA   6935
+                     .|||||          |||                               
+89110235-8911   3132 GTTAGT----------TTT-------------------------------   3140
+
+c155244627-15   6936 GTGATCCACCTGCCTCGGCTTCCCAAAGTGCTGGGATTACAGGTGTGAGC   6985
+                            ||||                        |||          ||
+89110235-8911   3141 -------ACCT------------------------ATT----------GC   3149
+
+c155244627-15   6986 CACCACACCCAGCTGGTC-TGGTCCACTTTCTTGG-CCGGATCATTCATG   7033
+                     |           |..||| |||||||||||||||| ||.|||||.|||.|
+89110235-8911   3150 C-----------CATGTCTTGGTCCACTTTCTTGGCCCTGATCACTCAGG   3188
+
+c155244627-15   7034 ACCTT--TCTCTTGCCAGGTTCCTGGATGCCTATGCTGAGCACAAGT---   7078
+                     .||||  ||||||||||||||.||||||||.||||||      ||||   
+89110235-8911   3189 CCCTTTCTCTCTTGCCAGGTTTCTGGATGCTTATGCT------AAGTATG   3232
+
+c155244627-15   7079 ---TACAG-TTCTGGGCAGTGACAGCTGAAAATGAGCCTTCTGCTGGGCT   7124
+                        || || |||||||||||||||||.||.|||||.|||.|.||.|||||
+89110235-8911   3233 GCCTA-AGATTCTGGGCAGTGACAGCGGAGAATGAACCTACAGCAGGGCT   3281
+
+c155244627-15   7125 GTTGAGTGGATACCCCTTCCAGTGCCTGGGCTTCACCCCTGAACATCAGC   7174
+                     .||.|..||.||||||||||||||||||||||||||.||||||||.|||.
+89110235-8911   3282 CTTCACGGGGTACCCCTTCCAGTGCCTGGGCTTCACTCCTGAACACCAGA   3331
+
+c155244627-15   7175 GAGACTTCATTGCCCGTGACCTAGGTCCTACCCTCGCCAACAGTACTCAC   7224
+                     |||||||||||.|||||||||||||.||..||||.|||||||||.|   |
+89110235-8911   3332 GAGACTTCATTTCCCGTGACCTAGGGCCAGCCCTTGCCAACAGTTC---C   3378
+
+c155244627-15   7225 CACAATGTCCGCCTACTCATGCTGGATGACCAACGCTTGCTGCTGCCCCA   7274
+                     ||..||||....|||||||||||.||||||||||||||||||||.||||.
+89110235-8911   3379 CATGATGTGAAGCTACTCATGCTAGATGACCAACGCTTGCTGCTACCCCG   3428
+
+c155244627-15   7275 CTGGGCAAAGGTGGTAAGGCCTGGACCT--CCATGGTGCTCCAGTGACCT   7322
+                     |||||||.||||||||||..||.||.||  |||.||||..|||.||..||
+89110235-8911   3429 CTGGGCAGAGGTGGTAAGCGCTAGAACTTCCCAGGGTGTCCCAATGGACT   3478
+
+c155244627-15   7323 TCAAATCCAGCATCC-AAATGACTGGCTCCCAAACTTAGAGCGATTTCTC   7371
+                     .||.|||.|.||||| |||||||||||| ||||..||||||         
+89110235-8911   3479 CCAGATCTACCATCCAAAATGACTGGCT-CCAATTTTAGAG---------   3518
+
+c155244627-15   7372 TACCCAACTATGGATTCCTAGAGCACCATTCCCCTGGACCT-CCAGGGTG   7420
+                     |||                         .|.||||||   | ||||||| 
+89110235-8911   3519 TAC-------------------------GTTCCCTGG---TGCCAGGGT-   3539
+
+c155244627-15   7421 CCATG-GATCCCACAGTTGTCGCTTG------AAACCTTTCTAGGGGCTG   7463
+                        || |||   |..||     ||||      ||||   ||    |||||
+89110235-8911   3540 ---TGAGAT---AGGGT-----CTTGTTATATAAAC---TC----GGCTG   3571
+
+c155244627-15   7464 GGC---GAGGTGGCTCACTCATGCAAACCCAGCACTTTG----GGAAGCC   7506
+                     |.|   .||.||..|   |||||           |||||    |.||   
+89110235-8911   3572 GCCTTGAAGTTGTGT---TCATG-----------CTTTGACTCGTAA---   3604
+
+c155244627-15   7507 GAGGCGGGTGATCACCTGAGGTCAGGAGTTTAAG-----ACCAC-CCTGG   7550
+                            |||     |||      |||.|.||||     ||||| ||||.
+89110235-8911   3605 -------GTG-----CTG------GGATTGTAAGCATCTACCACTCCTGA   3636
+
+c155244627-15   7551 CCAACGTGTTGAAACCCTGTGTCTACTAA--AATACAAAA----------   7588
+                     |                   .||||||||  |||   .||          
+89110235-8911   3637 C-------------------TTCTACTAATTAAT---TAATTGATTGTTT   3664
+
+c155244627-15   7589 --------AAAAAAAATTATCTGGGCATGAT---GGTGGGTG-TCTGTAA   7626
+                             |.|.||.|..||||...|| |||   ..|||.|| ||||.||
+89110235-8911   3665 GATTTTTGAGACAACAGGATCTCACCA-GATAACTCTGGTTGTTCTGAAA   3713
+
+c155244627-15   7627 T--------CC-----------CAGCTACTCAGGAGGCTGAGAAGGGAGA   7657
+                     |        ||           ||.||.||||.|                
+89110235-8911   3714 TTATATAGACCAAACTGACCTTCAACTCCTCAAG----------------   3747
+
+c155244627-15   7658 ATC-AGTTGAACCCGGGAGATGGTGGT--------TGCGGTGAGCCGAGA   7698
+                     ||| |.|||..||          |.||        |||.|||| ..||.|
+89110235-8911   3748 ATCTACTTGCCCC----------TTGTCTCCCAAGTGCTGTGA-TTGACA   3786
+
+c155244627-15   7699 TC----GCGCCACTGCACTCCAGCCTGGGAGGCTGAGCGAGACTCCATCT   7744
+                     ||    ||         |||||..|       ||||         |.|||
+89110235-8911   3787 TCATATGC---------CTCCATAC-------CTGA---------CCTCT   3811
+
+c155244627-15   7745 CGAAACAAAACAAAACAAAAC--------TATCTAGGCTGGG-GGTGGTG   7785
+                     |                 |||        |||.|  ||.||| ||     
+89110235-8911   3812 C-----------------AACTCCTTTTTTATGT--GCAGGGAGG-----   3837
+
+c155244627-15   7786 GTTCATGTATGTATGTG---TAT------ATACAT---------------   7811
+                          |||||||.||.|   |||      ||.|||               
+89110235-8911   3838 -----TGTATGTGTGGGCCTTATCTGACAATTCATCAAGAGCAGCTGAGC   3882
+
+c155244627-15   7812 ---ATATATGTGTTTATATGTATATATATATACACACACACACATACATA   7858
+                        .||||..|.|||.|.|||.|...|.|..||||..|..|.| |.||| 
+89110235-8911   3883 TCGGTATACTTTTTTCTTTGTTTGGTTTTTGACACTAAGTCTC-TCCAT-   3930
+
+c155244627-15   7859 CACACACATACACACACAAATTA-GCTGGGTGTGGCACCCGTGTAGTCCC   7907
+                                       .|||| |||.|||.||        .|||||  
+89110235-8911   3931 ------------------GATTAGGCTAGGTTTG--------CTAGTC--   3952
+
+c155244627-15   7908 AGCTACTCAGGAGGCTAATGTGGGAGGATCAGTTGACCCTA---------   7948
+                         |||   |||.|..|   |||||  .||.|||.|||||         
+89110235-8911   3953 ----ACT---GAGCCCCA---GGGAG--CCACTTGCCCCTACCTGCCCAG   3990
+
+c155244627-15   7949 -----GGA-AGT-CAAGGC--TGCA-----GTGAGTCGTG----------   7974
+                          ||| ||| .|||||  ||||     |||.||..||          
+89110235-8911   3991 CGCTGGGACAGTGTAAGGCCTTGCATAGGTGTGGGTGCTGGGGGACTCAG   4040
+
+c155244627-15   7975 ------------ATTGC--GCCACTGTA----CTCCAGCCCGAGTGAC--   8004
+                                 ||.||  | .|||.||    ||||||  |..|||||  
+89110235-8911   4041 GTCCTCAGCTGCATGGCAAG-AACTTTACCAGCTCCAG--CTTGTGACTC   4087
+
+c155244627-15   8005 --AGAGTGACATCCT-------GTCT------------CAAAAACAAAAA   8033
+                       .||   |||.|||       ||||            ||          
+89110235-8911   4088 CTGGA---ACACCCTAGGCTGGGTCTGGCTGCCTGGGGCA----------   4124
+
+c155244627-15   8034 AAAATCTCCCCA-----AACCTCTCTAG------TTGCATTCTTCCCGTC   8072
+                          ||.||||     || ||.||.||      .||.||..||.|.|||
+89110235-8911   4125 -----CTGCCCACTCTGAA-CTTTCCAGGGCCCTGTGAATCATTGCTGTC   4168
+
+c155244627-15   8073 A-------CCCAACTCCAGGAT------TCCTACAA---------CAGGA   8100
+                     |       .|||.||   ||.|      ||||||.|         |||| 
+89110235-8911   4169 AGTGTAAGGCCATCT---GGTTGCTGGGTCCTACCACCCATTTCTCAGG-   4214
+
+c155244627-15   8101 ACTAGAAGTTC--------CAGAAGCCTGTGTGCAAGGTCCAG-GATCAG   8141
+                     ||..|.|||||        |||    ||.||||| |||.|..| |.||||
+89110235-8911   4215 ACATGTAGTTCCTCTCTCACAG----CTCTGTGC-AGGGCTTGTGGTCAG   4259
+
+c155244627-15   8142 TTGCT--CTTCCTT---------------------TGCAGGTACTGACAG   8168
+                     |.|||  |||||.|                     |||||||.||..|.|
+89110235-8911   4260 TGGCTCCCTTCCCTATTGCTCCTTCCCTCTCTCCATGCAGGTGCTCTCTG   4309
+
+c155244627-15   8169 ACCCAGAAGCAGCTAAATATGTTCATGGCATTGCTGTACATTGGTACCTG   8218
+                     |.|||||.||||||||.||.|||||||||||||||||.||.|||||..||
+89110235-8911   4310 ATCCAGAGGCAGCTAAGTACGTTCATGGCATTGCTGTTCACTGGTATATG   4359
+
+c155244627-15   8219 GACTTTCTGGCTCCAGCCAAAGCCACCCTAGGGGAGACACACCGCCTGTT   8268
+                     ||.||.|||||||||||||||||.||..||||.||||||||||||.||||
+89110235-8911   4360 GATTTCCTGGCTCCAGCCAAAGCTACTTTAGGAGAGACACACCGCTTGTT   4409
+
+c155244627-15   8269 CCCCAACACCATGCTCTTTGCCTCAGAGGCCTGTGTGGGCTCCAAGTTCT   8318
+                     |||||||||.|||||||||||.||.||||||||.||||||||||||||||
+89110235-8911   4410 CCCCAACACAATGCTCTTTGCTTCGGAGGCCTGCGTGGGCTCCAAGTTCT   4459
+
+c155244627-15   8319 GGGAGCAGAGTGTGCGGCTAGGCTCCTGGGATCGAGGGATGCAGTACAGC   8368
+                     ||||.||||||||.|||.|.|||||||||||||||||||||||||||||.
+89110235-8911   4460 GGGAACAGAGTGTTCGGTTGGGCTCCTGGGATCGAGGGATGCAGTACAGT   4509
+
+c155244627-15   8369 CACAGCATCATCACGGTAAGCCACCCCAGTCT-CCCTTCCTGCAAAGCAG   8417
+                     |||||||||||.|||||.|||  |.||.|||| |||||||  |||||||.
+89110235-8911   4510 CACAGCATCATTACGGTGAGC--CGCCTGTCTCCCCTTCC--CAAAGCAC   4555
+
+c155244627-15   8418 ACC-TCAGA----CCTCTTACTAGTTTCACCAAAGACTGACAGAAGCCCT   8462
+                     ||| ||.||    ||| ||.|||.|.||| |||||.|..||   .|.|||
+89110235-8911   4556 ACCATCTGAGATCCCT-TTCCTAATCTCA-CAAAGGCAAAC---GGGCCT   4600
+
+c155244627-15   8463 TCCT----GTCCAGCTTTCCCCAGCTAGCCTGCCCTTTTGAGCAACTCTG   8508
+                     ||||    |.|..||||      ||.|||||.|.||||.|.||||||.||
+89110235-8911   4601 TCCTCCTCGGCTGGCTT------GCCAGCCTTCTCTTTGGGGCAACTGTG   4644
+
+c155244627-15   8509 GGGAACCATGATTCCCTATCTTCCCTTTCCTTCACAGGTCTGCACACCTC   8558
+                     ||...|||||.|    |||||||    ||.|||||||.|.||.|...| |
+89110235-8911   4645 GGATGCCATGGT----TATCTTC----TCTTTCACAGATGTGTATGGC-C   4685
+
+c155244627-15   8559 ATTGCCCCTTTTGCAACTAC-----TGAGGCACTTGCAG------CTGCC   8597
+                     ||.|..|.||||    ||.|     || |.|.||.||||      ||.||
+89110235-8911   4686 ATCGGTCTTTTT----CTTCATGTTTG-GTCCCTGGCAGGCATATCTACC   4730
+
+c155244627-15   8598 TCAGACTTCTCAGCTCCCCTTGAGATGCCTGGATCTTCACA-CCCCCAAC   8646
+                     |||||.|||||||||||   ||||||||||..||||.|||| .||.||.|
+89110235-8911   4731 TCAGATTTCTCAGCTCC---TGAGATGCCTCCATCTCCACAGTCCTCACC   4777
+
+c155244627-15   8647 TCCTTAGCTACTAAG---GAATGTGCCCCTCACAGGGCTGACCTACCCAC   8693
+                     ||||.||.|.||.||   ||.||| |||.|||.||    ||.|.|.||| 
+89110235-8911   4778 TCCTCAGATGCTGAGACAGAGTGT-CCCTTCAGAG----GAACAAACCA-   4821
+
+c155244627-15   8694 AGCTGCCTCTCCCA--CATGTGACCCTT-AC---CTACACTCTCTGGGGA   8737
+                             ||||.|  |.|||||.|||| ||   ||    |.|||.||||
+89110235-8911   4822 --------CTCCTAGTCCTGTGATCCTTGACTGTCT----TTTCTAGGGA   4859
+
+c155244627-15   8738 CCCCCAGTGTTGCGCCTTTGTCTCTTTGCCTT------TGTCCT-TACCC   8780
+                     ...|||                |||||.||||      ||.||| |||.|
+89110235-8911   4860 TAGCCA----------------TCTTTACCTTTTACCCTGGCCTCTACTC   4893
+
+c155244627-15   8781 TAGAACCTCCTGTACCATGTGGTCGGCTGGACCGACTGGAACCTTGCCCT   8830
+                     |||||||||||.|||||.||....||.|||||.|||||||||||||||||
+89110235-8911   4894 TAGAACCTCCTTTACCACGTAACTGGATGGACGGACTGGAACCTTGCCCT   4943
+
+c155244627-15   8831 GAACCCCGAAGGAGGACCCAATTGGGTGCGTAACTTTGTCGACAGTCCCA   8880
+                     |||.||.||||||||.|||||.|||||.||.|||||||||||.||.||||
+89110235-8911   4944 GAATCCTGAAGGAGGGCCCAACTGGGTCCGCAACTTTGTCGATAGCCCCA   4993
+
+c155244627-15   8881 TCATTGTAGACATCACCAAGGACACGTTTTACAAACAGCCCATGTTCTAC   8930
+                     |.|||||.||||||.||||.|||.|.||||||||||||||||||||||||
+89110235-8911   4994 TTATTGTCGACATCCCCAAAGACGCATTTTACAAACAGCCCATGTTCTAC   5043
+
+c155244627-15   8931 CACCTTGGCCACTTCAGGTGAGT--GGAGGGCGGGCACCCCCATTCCATA   8978
+                     ||.||||||||||||||||||||  .|||.||||||| ||||||||||||
+89110235-8911   5044 CATCTTGGCCACTTCAGGTGAGTAGAGAGCGCGGGCA-CCCCATTCCATA   5092
+
+c155244627-15   8979 CCAGGCCTATCATCT-CCTACATCGGATGGCTTACATCACTCTACACCAC   9027
+                     ..||||||||||||| .||..|||   .|||||||||||..||...|||.
+89110235-8911   5093 GTAGGCCTATCATCTGTCTGTATC---AGGCTTACATCATCCTGTCCCAT   5139
+
+c155244627-15   9028 GAGGGAGCAGGAAGGTGTTC-AGGGTGG-AACCTCGGAAGAGGCACACCC   9075
+                     |||||||||||||||| ||| ||||||| ||||..|||||.|||||||.|
+89110235-8911   5140 GAGGGAGCAGGAAGGT-TTCTAGGGTGGCAACCCTGGAAGGGGCACACTC   5188
+
+c155244627-15   9076 ATCCCCTTTTGCACCATGGAGGCAGGAAGTGACTAGGTAGCAACAGA---   9122
+                     .|||.||.||||||||||..|||.|||||||||.||||.|||.||||   
+89110235-8911   5189 CTCCTCTGTTGCACCATGTGGGCGGGAAGTGACAAGGTGGCATCAGAGTC   5238
+
+c155244627-15   9123 ------AAACCCCA-ATGCCTGAGGCTGGA---CTGCGATGCAGAAAAGC   9162
+                           ||.||||| |||.||||.||||||   ||||.|  |||.|   |
+89110235-8911   5239 ACAGATAATCCCCAGATGACTGATGCTGGAGTCCTGCCA--CAGGA---C   5283
+
+c155244627-15   9163 AGGGTCAGTGCCCAGCAGCATGGCTCCAGGCCTAGAGAGC-CAGGGC--A   9209
+                     |||..||..||||||..|||..|||         ||| || ||||||  |
+89110235-8911   5284 AGGACCAAGGCCCAGTGGCACAGCT---------GAG-GCTCAGGGCTAA   5323
+
+c155244627-15   9210 GAGCCTCTGCAGGAGTTATGGGGTGGGT--CCGTGGG-----TGGGTGAC   9252
+                     |||.||              ||.||.||  ||..|||     ||||...|
+89110235-8911   5324 GAGTCT--------------GGCTGTGTTGCCCAGGGAAGCCTGGGGTCC   5359
+
+c155244627-15   9253 TTCTTAGATGAGGGTTTCATGGGAGGTACCCCGAGGGACTCTGACCATCT   9302
+                     |     |||||   |||                           |.||||
+89110235-8911   5360 T-----GATGA---TTT---------------------------CTATCT   5374
+
+c155244627-15   9303 GTTCCCACATTCAGCAAGTTCATTCCTGAGGGCTCCCAGAGAGTGGGGCT   9352
+                         .|||.|||||||||||||||||.|||||.|||||||||||||.|.|
+89110235-8911   5375 ----TCACGTTCAGCAAGTTCATTCCCGAGGGATCCCAGAGAGTGGCGTT   5420
+
+c155244627-15   9353 GGTTGCCAGTCAGAAGAAC-GACCTGGACGCAGTGGCACTGATGCATCCC   9401
+                     |||.||||||.|| ||.|| |||.||||..||||.||||||.|.|..||.
+89110235-8911   5421 GGTGGCCAGTGAG-AGCACTGACTTGGAAACAGTAGCACTGTTACGCCCT   5469
+
+c155244627-15   9402 GATGGCTCTGCTGTTGTGGTCGTGCTAAACCGG-----TGAGGGCAATGG   9446
+                     ||.||||||||.||||||||||||.||||||||     ||.|.|||| ||
+89110235-8911   5470 GACGGCTCTGCAGTTGTGGTCGTGTTAAACCGGTAAGCTGGGTGCAA-GG   5518
+
+c155244627-15   9447 TGAGGTCTGGGAAGTGGGCTGAAGACAG-CGT-TGGGGGCCTTGGCAGG-   9493
+                     ..|||||||      ||.|||     || ||| ||.||    ||||.|| 
+89110235-8911   5519 GCAGGTCTG------GGCCTG-----AGCCGTGTGAGG----TGGCTGGC   5553
+
+c155244627-15   9494 ATCA-CACTCTCAG-CTTCTCCTCCCTGCTCCCTAGCTCCTCTAAGGATG   9541
+                     |||| ||...|.|| |||..|.|..||.|||.|.||.||.||..||||||
+89110235-8911   5554 ATCAGCAGGTTGAGTCTTGACTTTTCTTCTCTCCAGATCTTCGGAGGATG   5603
+
+c155244627-15   9542 TGCCTCTTACCATCAAGGATCCTGCTGTGGGCTTCCTGGAGACAATCTCA   9591
+                     |.|||||||||||||..|||||||...||||||||||||||||..|.|||
+89110235-8911   5604 TCCCTCTTACCATCAGTGATCCTGACCTGGGCTTCCTGGAGACCGTGTCA   5653
+
+c155244627-15   9592 CCTGGCTACTCCATTCACACCTACCTGTGGCGTCGCCAGTGATGGAGCAG   9641
+                     ||||||||||||||||||||.|||||||||||||||||||||||||.|.|
+89110235-8911   5654 CCTGGCTACTCCATTCACACTTACCTGTGGCGTCGCCAGTGATGGAACTG   5703
+
+c155244627-15   9642 ATACTCAAGGAGGCA-CTGGGCTCAGCCTGGGCATTAAAGGGACAGAGTC   9690
+                     |.||...||.||||| |||||||.|||.|||.|||||||||||.|||||.
+89110235-8911   5704 ACACCTGAGCAGGCACCTGGGCTTAGCATGGACATTAAAGGGAAAGAGTT   5753
+
+c155244627-15   9691 AGCTCACACGCTGTCTGTGACTAAAGAGGGCACAGCAGGGCCAGTGTGAG   9740
+                     .||||....|||.|||||||||||||..|||||.||||||||.|.|.||.
+89110235-8911   5754 CGCTCCTGTGCTATCTGTGACTAAAGGAGGCACGGCAGGGCCTGGGGGAC   5803
+
+c155244627-15   9741 CTTACAGCGACGTAA--GCCCAGGGGCAATGGTTTGGGTGACTCACTTTC   9788
+                     |||||||.|||   |  |..|||||.|||.||||.||.||.||||.|.||
+89110235-8911   5804 CTTACAGTGAC---ACGGGGCAGGGCCAAGGGTTCGGATGTCTCATTCTC   5850
+
+c155244627-15   9789 CCCTCTAG---GTGGTGCCAGGGGCT-----GGAGGCCCCTAGAAAAAGA   9830
+                     |..|||||   |||.||        |     ||||               
+89110235-8911   5851 CTTTCTAGTATGTGCTG--------TGTATGGGAG---------------   5877
+
+c155244627-15   9831 TCAGTAAGCCCCAGTGTCCCCCCAGC-CCCCATGCTT---ATGTGAACAT   9876
+                        |.||||||.||.|||||.||||| .||||.|.||   |.|||    |
+89110235-8911   5878 ---GGAAGCCCTAGAGTCCCTCCAGCTTCCCAGGGTTGTAAAGTG----T   5920
+
+c155244627-15   9877 GCGCTGTGTGCTGCTTG-CTTTGGAAACTGGGCCTGGGTCCAGGCCTAGG   9925
+                     |.||||||..|||.||| ||.|||||.|||.||||..||||      |||
+89110235-8911   5921 GTGCTGTGCACTGGTTGCCTGTGGAAGCTGTGCCTACGTCC------AGG   5964
+
+c155244627-15   9926 GTGAGCTCACTGTCCGTACAAACACAAGATCAGGGCTGAGGGTAAGGAAA   9975
+                     |||||.||||.|||...|.||.||||||||  |||               
+89110235-8911   5965 GTGAGTTCACCGTCTTAAGAAGCACAAGAT--GGG---------------   5997
+
+c155244627-15   9976 AGAAGA-GACTAGGAAAGCTGGGCCCAAAACTGGAGACTGTTTGTCTTTC  10024
+                         || |.|||||.|||||||.|             ||||.||      
+89110235-8911   5998 ----GATGCCTAGGCAAGCTGGAC-------------CTGTGTG------   6024
+
+c155244627-15  10025 CTGGAGATGCAGAACTGGGCCCGTGGAGCA--GCAGTGTCAGCATCAGGG  10072
+                                           |.||||||  |||  |||||..|.||||
+89110235-8911   6025 ----------------------GAGGAGCAAGGCA--GTCAGTCTAAGGG   6050
+
+c155244627-15  10073 CGGAAGC--CTTAAAGCAGCAGCGGGTGTGCCCA---GGCA-CCCAGA--  10114
+                      .|||||  ||||||  |.|.|.||||     ||   |||| .||.||  
+89110235-8911   6051 -TGAAGCAGCTTAAA--ACCCGAGGGT-----CAGAGGGCAGACCTGACC   6092
+
+c155244627-15  10115 --TGATTCC----TATGGCACCAGCCAGGAAAAATGGCAG----CTCTTA  10154
+                       ||..|||    |.|||||.|      .||.||||||||    |.|..|
+89110235-8911   6093 TCTGCATCCTCATTGTGGCATC------TAAGAATGGCAGCAGCCACAGA   6136
+
+c155244627-15  10155 AAGGAGAAAATGTTTGAGCCCA----------------------------  10176
+                     |||.||..|.|.|||||.||||                            
+89110235-8911   6137 AAGAAGGGATTCTTTGATCCCAGTTAGTGTAAACAGGTTTATTCTGAGGA   6186
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6187 CAGCGCCCCATTTTTGGCTGCTCCAACCATGGGGAGACGAGGGACAGCTG   6236
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6237 GAATGCACGAGTAGAAAAGTCAGTCCTGGGAACAGGAACGCCATCAGTCC   6286
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6287 TCTTCATCCTCCTCAGCCAGGCCCAAGGCCCGGGTGCCTGGGGCCCGAGC   6336
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6337 AGGGCTTGTCCGCTGGATAGAAACGATGCCACTGAGCAGGGCATAGCCCA   6386
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6387 CCATGGCTGCCAGCCCTGCCAGCACAGAGAGAATCTGGGTCCGGCGCCGG   6436
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6437 TATGGCTCCTCCTCGGTCTCAGGGGCTGCTGGTGTCTGGCGTGGAAGTGG   6486
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6487 CACCTCATCTAGGAGGTGAGGAAGGGAGGTGAGCAGGAAGCCAGGCCCCG   6536
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6537 GCGGACCCCAGCCCGTTCTCTTCTCTCCCACTGCTCCTCACCTCCATCCC   6586
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6587 GGGGAAAGTAGAGGTTGAGGATGTGGGTGCAGTAGGCGCAGAGGTTGTGC   6636
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6637 AGCCCCCGAAGGTGGGCCTGCAGCTTCCCACTGGGCAGCTTGGCCTGCAG   6686
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6687 CAGCAGGGCCAAATGGCTAAAAACAAAGGCGTCCAGGGAGGCAGGGCTAG   6736
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6737 AGAGAGAGAGAGAGAGAGAAGGGTGGAATGGAAGTGGACAACTGCAGAGA   6786
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6787 GGACAACATGAAGCAAGAGGAAAAAGTCTGCTTCAGAGGGGTAGGCTCTG   6836
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6837 GGCAGCAGGGGTCATCCAAGGAAGAGCAGGACACCTAGCTCTGCATTTGG   6886
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6887 TAAGGGGAGTTCCCCAGGTGGCGCCAGCCTGGCCCTGAATGGAGCTCTAT   6936
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6937 CCCAGGGCAGTATAATGGACACATTGAGTGGCGCCCAGCCCAGCAGTCTC   6986
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   6987 CTCCTGTGCCTGGCTCCTCTCCCATCCCACCCTCCTGTACCACCAAGGAG   7036
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7037 GTTCTAGCCACACGCACAGCGCCCCGTCACCAGAGGCAGTGTCTGTCCTA   7086
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7087 AGAACCCCTTGTTCCCACCTCAGCCCAGGCTTTGACACCTGAACCCGTAT   7136
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7137 CTTCTTCCAACATCCATTTATTCCCCCTTGGAGTCAGACTCACGCATCCC   7186
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7187 CAAAGAAGAACTTCTGAGAGCCCAGACGCTGAGAGAGAAGGGTTAGGCAC   7236
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7237 TCCCGAGCCTCTTGGTATAGCTGGAGGAAGGGACACGAAGCATGTGGTTG   7286
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7287 TGGGAGCTGTGACACTTCCCACTGTAGATTCTCATTCCTAGCCCCAAGTT   7336
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7337 ACCTCTTTTTCTAGTTCCTCCTCGTTCTCTGATTTGTGCTCGCCACACAG   7386
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7387 CAGCTGTAGCCGCTCCATGTACTGGCGCTGCATGCGGCCGGGCAGGAAGA   7436
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7437 AGTTGAGGGGAAAGGGCATAGCCTCTGCATACCACTTTCGGGTCACTTCC   7486
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7487 ACATAGTTCTTGGCGTCTATCCAAAAAGTATGGATCTGGATTGGGCAGAC   7536
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7537 AGGAAGAGAAAGCCTGAGCCCGTGCACCTGCCTGTCACGGGGTGGGCTTC   7586
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7587 TAAGTCTCATGGCTCTGTAGCTCTGCTCCCTTCTGTGCGGGCTGGGACTG   7636
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7637 CTAGGTCTGAGCGTACTCACTAGCACAGGCAGTAGTTTCTCCTCCAGCAG   7686
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7687 AGACATGAAGGCTAGGGTATCTGCTCCTTGGCGAGCTGACAGATCGTAGT   7736
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7737 CGGCATTATACTTCTGTGGAAGAAATGTTCATGGGGTGAATATTGAAGGA   7786
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7787 TTGCAGGGACACTTATTTTTTCAGTAGAGAAGGAACAGTAACCCCACACT   7836
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7837 AGCCTCAAGCATAGTAGAGGTAGAAGAAGGAGTCTTTCCTGCTGAGGTCT   7886
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7887 CCTTGCCTCAGCTCAGTGAGTAGCCTGTTGCTGTTGGCAGAAAGCCTGGG   7936
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7937 CTTTGGAGCCCACTGGCTGTCAAGGTCCTGCACCCACTGCGGGGAGGGAA   7986
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   7987 GAAGGCCTGGCCACAAAGTGGGAGCAGCTCCCGGACTTTCCACGGAAAGC   8036
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8037 TGGCGGGGTGCCTGCCGACAGCAGCTCTCTAACAGTAACTTCCTGATCTA   8086
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8087 GACACCACACCACAGAGCTAGCAACGAGGCACTCGGCTGCAGGCTGGGCC   8136
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8137 TCAGAAGTCAGGGGGCACCATCCTTACCCTTCTTGAACCCAGTCAATTTA   8186
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8187 CATCCAGCCACCCCAACCCCAGCTTGTCCCCCACAGCAAGCTCTTGGCTA   8236
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8237 TGTCTTGCACTTCACTCCAAACCCTTGTGCACCACTACTGTACCTTCATC   8286
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8287 GCACCGGTATTTCCGTCTTGTCTTAGTGTGGCCCACCTTTCCAGGCTTCA   8336
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8337 GGCTGTTCCTTAGTACCCCCTCCACAGACTAAGAAAGCTTTGAACCTGCA   8386
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8387 GAGCCTCTTGAAGATGACTCTTAAATTTCCCTGAATCTCAGTTTCTCCTT   8436
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8437 TATGGAAGGAGACAGTAATGTTTTTCTCTCGATGTGGCTGGGTTTGGAAA   8486
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8487 TAATTTAGGAAAAAACCCTTTGGAAACTGAAAAGGCTGTGTTTATATGCA   8536
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8537 AGTAACCCGGGTCCTGCCAGGAACGCTGGCTTATATCTGGATCCGGTTTC   8586
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8587 TCCAGGCCGCTAAGCTTCCATTACTTCCCCAGCTCCCTGGAAAGTAGAAA   8636
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8637 TGAGAAAGGGGATTCTATTTCTGACTGTGTGTTCCCTCTTGGAACAACGC   8686
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8687 TATGAATGCCAGGCCTCTGAGAGCATCCTGCCTAAGCACCCTAGTTTACA   8736
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8737 AGTAAGGAACTGTAGTTGGTGAGCTGCCTTAGCAGGTAACTGTCCTTGCT   8786
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8787 GTCAGGCTCAATGACAAGAGTTGCATTGCAGGAGGCCACATAGCAGAAGG   8836
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8837 AAAGGACTTAGTCTACCAAGCTGTCCAAGGACCTCCCCAAGTGTGCCACG   8886
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8887 GCATGTGCTCACACACACACACACACCCCAAAGCAAGAGAAATAAATGCT   8936
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8937 TACAAAACAAATAGTTCATTACTTTGAGAAGTTAAATCACCTGTCCAACG   8986
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   8987 TCATAGTCAATGACAGAATAACAGAGCCAAGGCCTCTACTCTCTCGTAAT   9036
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9037 TCTTAATCATCCAAACCTGGCACGAAGCTTTGTCCATCCTGAGTCCTGTA   9086
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9087 TCTAGCATAACTTAGCACTTGAGAAGAGAAATAGTCCTTAGAAATCTTTG   9136
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9137 TGGTTTTTTTCTCTCTCTCTCTCTCCCCCGACTTTTACTCCTTTCTTTGA   9186
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9187 CAGTTCTGGCCTGGAACTCACTCTATAGAGCAGGCTGACTTTCAACTACA   9236
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9237 GAGATCTGCCTGCCTCTGCCTTCTAGGTGTTCAGATTAAAGATGTGTGCC   9286
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9287 ACCACTGCCCAGTGACTTTTTTCTTTTTTGAGAGGGGTTCTTATGTCTTC   9336
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9337 CAGGCTGGCCCCAAACACACTATGTAGCCAAAGATGATTTTAAATTTCTG   9386
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9387 ATCATCCCACTTCTACCAAGTGCTGGGATTATATGCGTGTACCACCATGA   9436
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9437 CGGTTTATATTAGAAATTCCTTTCAGGTCTACCCGGAAACCAACTGCTGT   9486
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9487 TCTCTACTCTTCTTTATTTTCCATGTGTCATCAGCCTGTGTATTTCTCTT   9536
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9537 CCTCCCTGCCCATTTGATTTCTCCGCTTATCCCACCCCACAGCCCCTTAA   9586
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9587 GTTCACTATCTGGCCAACTGCTTGTCACAGTCACACTGCATCCCCCATGC   9636
+
+c155244627-15  10177 --------------------------------------------------  10176
+                                                                       
+89110235-8911   9637 TGCTCCTCCCTGCTCTGGATCACACTGCTCTTGCCTGGCCTGTGTCTGGT   9686
+
+c155244627-15  10177 ------------------------  10176
+                                             
+89110235-8911   9687 GGCCAATAAATAAGTTACACTTCA   9710
+
+
+#---------------------------------------
+#---------------------------------------
